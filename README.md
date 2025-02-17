@@ -97,14 +97,10 @@ consectetur adipiscing
 
 - `int2.txt`:
 ```
-Lorem ipsum dolor sit amet
-45
-Пример
-3.1415
-consectetur adipiscing
--0.001
-тестовое задание
-100500
+Нормальная форма числа с плавающей запятой
+1.528535047E-25
+Long
+1234567890123456789
 ```
 
 **Выходные файлы:**
